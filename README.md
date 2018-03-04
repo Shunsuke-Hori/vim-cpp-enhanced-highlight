@@ -1,6 +1,10 @@
 vim.cpp - additional vim c++ syntax highlighting
 ------------------------------------------------
 
+**This is a fork of octol/vim-cpp-enhanced-highlight**
+**The difference is this repository has `mat` and `cube` as keywords for armadillo**
+
+
 This file contains additional syntax highlighting that I use for C++11/14/17
 development in Vim. Compared to the standard syntax highlighting for C++ it
 adds highlighting of (user defined) functions and the containers and types in
