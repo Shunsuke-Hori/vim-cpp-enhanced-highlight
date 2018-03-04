@@ -761,6 +761,8 @@ syntax keyword cppSTLtype valarray
 syntax keyword cppSTLtype value_compare
 syntax keyword cppSTLtype value_type
 syntax keyword cppSTLtype vector
+syntax keyword cppSTLtype mat
+syntax keyword cppSTLtype cube
 syntax keyword cppSTLtype wfilebuf
 syntax keyword cppSTLtype wfstream
 syntax keyword cppSTLtype wifstream
